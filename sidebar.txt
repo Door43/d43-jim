@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jim:home|Door43 (jim)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jim|d43-jim repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jim/archive/master.zip|d43-jim.zip]]
+
+**Recent Changes**
+{{changes>ns = jim}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jim|Ethnologue data]]
+
